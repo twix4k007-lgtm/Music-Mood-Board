@@ -1,4 +1,4 @@
-Here's a well-structured README for your Music Mood Board project:
+MUSIC MOOD BOARD
 
 markdown# 🎵 Music Mood Board
 
